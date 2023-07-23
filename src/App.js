@@ -3,12 +3,9 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-<<<<<<< HEAD
-  <h1>Yahoo</h1>
-=======
-  <h1>Test</h1>
->>>>>>> master
+    <div className="container">
+ 
+ 
     </div>
   );
 }
